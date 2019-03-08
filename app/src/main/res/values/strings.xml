@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">IITP Keys</string>
+    <string name="iitp_key_issue">IITP KEY ISSUE</string>
+    <string name="key_issue_return">Key issue/return</string>
+    <string name="keys_not_returned">keys not returned</string>
+    <string name="exit">Exit</string>
+    <string name="entry">Entry</string>
+    <string name="person_s_details">Person\'s Details</string>
+    <string name="name">Name :</string>
+    <string name="phone">Phone :</string>
+    <string name="email">Email :</string>
+    <string name="return_text">Return</string>
+    <string name="issue">Issue</string>
+</resources>
